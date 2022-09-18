@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Thanks for your order!</title>
+    <link rel="stylesheet" href="/static/style2.css">
+    <script src="https://polyfill.io/v3/polyfill.min.js?version=3.52.1&features=fetch"></script>
+    <script src="https://js.stripe.com/v3/"></script>
+  </head>
+  <body>
+    <section>
+      <div class="success">
+        <div class="final">
+          <h1>Спасибо за покупку!</h1>
+          <h3>Мы ценим ваш бизнес! Если у вас есть какие-либо вопросы, пожалуйста, напишите нам по электронной почте!</h3>
+        </div>
+      </div>
+      <div>
+        <button type="button" id="checkout-button"><a href="{% url 'item' %}">Вернуться на главную</button>
+      </div>
+    </section>
+  </body>
+</html>
