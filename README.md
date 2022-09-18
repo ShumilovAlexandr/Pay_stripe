@@ -22,7 +22,7 @@
 6. Проект будет доступен по ссылке http://localhost:8000/</li>
 
 ## 4. Используемый стек технологий
-[![Python vetsion]](/github/pipenv/locked/python-version/)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/p)
 
 ## 5. Используемая лицензия
 BSD 3-Clause License
