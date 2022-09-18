@@ -22,7 +22,7 @@
 6. Проект будет доступен по ссылке http://localhost:8000/</li>
 
 ## 4. Используемый стек технологий
-![]/visual-studio-app-center/builds/:owner/:app/:branch/:token
+![example workflow](/visual-studio-app-center/builds/:owner/:app/:branch/:token)
 
 ## 5. Используемая лицензия
 BSD 3-Clause License
