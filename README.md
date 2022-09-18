@@ -29,8 +29,9 @@
     </ol>
 </div>
 <div>
-    <h4><a name='Технологии'>4. Используемый стек</a></h4>
+    <h4><a name='Технологии'>4. Используемый стек технологий</a></h4>
 </div>
+	/visual-studio-app-center/builds/:owner/:app/:branch/:token
 <div>
     <h4><a name='Лицензия'>5. Используемая лицензия</a></h4>
 </div>
