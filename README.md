@@ -23,6 +23,7 @@
 
 ## 4. Используемый стек технологий
 ![PyPI - Python Version](https://img.shields.io/badge/python-3.7-blue)
+![PyPI - Django Version](https://img.shields.io/badge/django-3.2.13-red)
 
 ## 5. Используемая лицензия
 BSD 3-Clause License
