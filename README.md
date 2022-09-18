@@ -22,7 +22,7 @@
 6. Проект будет доступен по ссылке http://localhost:8000/</li>
 
 ## 4. Используемый стек технологий
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/p)
+![PyPI - Python Version](https://img.shields.io/badge/python-3.7-blue)
 
 ## 5. Используемая лицензия
 BSD 3-Clause License
