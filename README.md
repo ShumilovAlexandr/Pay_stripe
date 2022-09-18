@@ -25,7 +25,9 @@
 ![PyPI - Python Version](https://img.shields.io/badge/python-3.7-blue)
 ![PyPI - Django Version](https://img.shields.io/badge/django-3.2.13-red)
 ![PyPI - Stripe Version](https://img.shields.io/badge/stripe-3.5.0-brightgreen)
-![PyPI - Stripe Version](https://img.shields.io/badge/django--environ-0.9.0-red)
+![PyPI - flake8 Version](https://img.shields.io/badge/flake8-4.0.1-orange)
+![PyPI - Python-dotenv Version](https://img.shields.io/badge/python--dotenv-0.20.0-blue)
+![PyPI - Docker Version](https://img.shields.io/badge/docker-20.10.17-informational)
 
 ## 5. Используемая лицензия
 BSD 3-Clause License
