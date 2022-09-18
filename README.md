@@ -22,7 +22,7 @@
 6. Проект будет доступен по ссылке http://localhost:8000/</li>
 
 ## 4. Используемый стек технологий
-![example workflow](/visual-studio-app-center/builds/:owner/:app/:branch/:token)
+[![Python vetsion]](/github/pipenv/locked/python-version/)
 
 ## 5. Используемая лицензия
 BSD 3-Clause License
